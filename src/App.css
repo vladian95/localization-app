@@ -1,0 +1,37 @@
+.navbar-ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+li {
+  margin: 0px 40px;
+  font-size: 40px;
+}
+.btnBox {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  margin: 0px 50px;
+  padding: 40px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.Ex-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 40px;
+}
+.card-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 0px 30px;
+}
+.card-ul {
+  list-style: none;
+}

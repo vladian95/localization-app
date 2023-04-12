@@ -1,0 +1,44 @@
+{
+  "navLinks": {
+    "about": {
+      "title": "About"
+    },
+    "work": {
+      "title": "Work"
+    },
+    "contact": {
+      "title": "Contact"
+    }
+  },
+  "experiences": {
+    "webapp": {
+      "title": "Web Development",
+      "points": [
+        "Development and maintenance of web applications using React.js and other related technologies.",
+        "Collaboration with cross-functional teams, including designers, product managers and other developers, to create high-quality products.",
+        "Implementation of adaptive design and cross-browser compatibility.",
+        "Participation in code reviews and providing constructive feedback to other developers."
+      ]
+    },
+    "visual": {
+      "title": "Visual interface",
+      "points": [
+        "Development of a visual interface using modern technologies",
+        "Gsap is a library for implementing animation of any level of complexity using JavaScript.",
+        "Frames Motion is a new open source ready-to-work React web motion library. From the prototyping point of view, Framer has always been ideal for developing advanced animations and gestures.",
+        "CSS animation is a proposed module for cascading style sheets that allows you to animate elements of an HTML document using CSS.",
+        "ThreeJS is a lightweight cross-browser JavaScript library used to create and display animated 3D computer graphics when developing web applications."
+      ]
+    },
+    "design": {
+      "title": "Web UI/UX Design",
+      "points": [
+        "Cooperation with people with many years of experience in Web Design.",
+        "Individual approach to each client.",
+        "Work with graphic editors such as Figma, PhotoShop",
+        "Photoshop is a multifunctional graphic editor developed and distributed by Adobe Systems. It mainly works with bitmap images, but it has some vector tools",
+        "Figma is an online service for interface development and prototyping with the ability to organize collaboration in real time."
+      ]
+    }
+  }
+}
